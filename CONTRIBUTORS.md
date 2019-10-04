@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Shawen
+ - Place: Kerela, India
+ - Bio: Student. Intrested in Python and Machine Learning.
+ - GitHub: [Shawen](https://github.com/ShawenSallace)
